@@ -12,7 +12,7 @@ I put navigation first because my first version was one long README with no next
 ## 2. How does my portfolio represent my skills, experience and goals?
 
 - **Skills and experience:** the resume covers 16+ years in cloud-native security, distributed systems, Python automation, Kubernetes/AWS and observability, at employers from Juniper and Netskope to HPE. The profile README groups skills by area.
-- **Goals:** the headline and README say I'm moving toward AI infrastructure and platform engineering, supported by my M.S. in Computer Science & AI at Boston University. The interests and goals sections point the same way.
+- **Goals:** the headline and README say I'm moving toward AI infrastructure and platform engineering, supported by my M.S. in Computer Science & AI at Boston University, which I started in Fall 2026. The interests and goals sections point the same way.
 - **Gap:** most of my experience is on proprietary systems, so the portfolio currently describes my skills more than it demonstrates them. The projects section is mostly placeholders for now, and that is the main weakness I want to fix.
 
 ## 3. What is one aspect I plan to continue developing?

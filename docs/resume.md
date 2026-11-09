@@ -8,7 +8,7 @@ Principal Software Engineer with 16+ years of experience in cloud-native securit
 
 ## Education
 
-- **M.S. Computer Science & Artificial Intelligence**, Boston University (in progress)
+- **M.S. Computer Science & Artificial Intelligence**, Boston University · Started Fall 2026 (in progress)
 - **B.Tech, Electronics & Communication Engineering**, JNTUH, 2010
 
 ## Technical skills
