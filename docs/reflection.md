@@ -1,5 +1,26 @@
 # Reflection & Future Growth
 
+## 1. What choices did I make about how to organize and present my work?
+
+I split the portfolio into layers so a visitor can choose how deep to go.
+- **Profile README:** a short first impression with my title, my goal and a "Start here" table.
+- **Portfolio repo:** an overview with a repo map, a web resume, a project index and this reflection.
+- **Resume in two forms:** a PDF for recruiters and a Markdown version that reads well on GitHub.
+
+I put navigation first because my first version was one long README with no next step. I also grouped my skills by area instead of listing them all, and left personal contact details out of the web resume because it's public. I used a project template so every future project is presented the same way.
+
+## 2. How does my portfolio represent my skills, experience and goals?
+
+- **Skills and experience:** the resume covers 16+ years in cloud-native security, distributed systems, Python automation, Kubernetes/AWS and observability, at employers from Juniper and Netskope to HPE. The profile README groups skills by area.
+- **Goals:** the headline and README say I'm moving toward AI infrastructure and platform engineering, supported by my M.S. in Computer Science & AI at Boston University. The interests and goals sections point the same way.
+- **Gap:** most of my experience is on proprietary systems, so the portfolio currently describes my skills more than it demonstrates them. The projects section is mostly placeholders for now, and that is the main weakness I want to fix.
+
+## 3. What is one aspect I plan to continue developing?
+
+My **public projects**. Over the program I want to turn the planned placeholders into real repositories, starting with an AI log analyzer that combines my observability background with what I'm learning about LLMs. Each project will have a README, an architecture diagram and results, so my AI and cloud skills are backed by evidence rather than claims.
+
+---
+
 ## Starting point
 
 My profile began as a single README in a single repo. It described my background well but had no resume, no projects and no way for a visitor to know where to start.
