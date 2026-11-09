@@ -7,17 +7,17 @@ I split the portfolio into layers so a visitor can choose how deep to go.
 - **Portfolio repo:** an overview with a repo map, a web resume, a project index and this reflection.
 - **Resume in two forms:** a PDF for recruiters and a Markdown version that reads well on GitHub.
 
-I put navigation first because my first version was one long README with no next step. I also grouped my skills by area instead of listing them all, and left personal contact details out of the web resume because it's public. I used a project template so every future project is presented the same way.
+I put navigation first because my first version was one long README with no next step. I also grouped my skills by area instead of listing them all, and left personal contact details out of the web resume because it's public. I used a project template so every future project is presented the same way. Because I started my M.S. in Computer Science & Artificial Intelligence at Boston University in Fall 2026, I gave the program its own place in the portfolio. The degree is listed under Education on the resume, the README states it in the headline, and the projects index has a "Course Projects" entry that I'll fill in as the program goes on.
 
 ## 2. How does my portfolio represent my skills, experience and goals?
 
 - **Skills and experience:** the resume covers 16+ years in cloud-native security, distributed systems, Python automation, Kubernetes/AWS and observability, at employers from Juniper and Netskope to HPE. The profile README groups skills by area.
-- **Goals:** the headline and README say I'm moving toward AI infrastructure and platform engineering, supported by my M.S. in Computer Science & AI at Boston University, which I started in Fall 2026. The interests and goals sections point the same way.
-- **Gap:** most of my experience is on proprietary systems, so the portfolio currently describes my skills more than it demonstrates them. The projects section is mostly placeholders for now, and that is the main weakness I want to fix.
+- **Goals:** the headline and README say I'm moving toward AI infrastructure and platform engineering. My M.S. in Computer Science & AI, which I started in Fall 2026, is the bridge. It adds formal training in machine learning, generative AI and AI systems to my industry experience in cloud and security platforms. The interests and goals sections point the same way.
+- **Gap:** I'm new to the program, so the portfolio doesn't yet show any AI or machine learning work I've built. Most of my experience is on proprietary systems, so it currently describes my skills more than it demonstrates them. The projects section is mostly placeholders for now, and that is the main weakness I want to fix.
 
 ## 3. What is one aspect I plan to continue developing?
 
-My **public projects**. Over the program I want to turn the planned placeholders into real repositories, starting with an AI log analyzer that combines my observability background with what I'm learning about LLMs. Each project will have a README, an architecture diagram and results, so my AI and cloud skills are backed by evidence rather than claims.
+My **public projects, especially ones that apply what I learn in the CS & AI program**. Over the program I want to turn the planned placeholders into real repositories. I'll start with an AI log analyzer that combines my observability background with what I'm learning about machine learning and LLMs, and then publish selected course projects as I finish them. Each project will have a README, an architecture diagram and results, so my AI and cloud skills are backed by evidence rather than claims. I'll revisit the resume and profile README each term to add new skills and coursework.
 
 ---
 
